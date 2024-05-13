@@ -32,5 +32,5 @@ footer
 ### :umbrella: footer
 ```
 선택사항이므로 모든 커밋에 꼬리말을 작성할 필요는 없다
-issue tracker id를 작성할 때 사
+issue tracker id를 작성할 때 사용
 ```
