@@ -1,7 +1,22 @@
-# Project Structure
+## Project Introduction
+> Meteor의 Gold rounge에서는 PB와 VIP가 소통하는 프리이빗한 디지털 라운지를 제공합니다
+> 
+> 1대1 화상 상담을 통해 시공간의 제약 없이 자산 관리가 가능합니다
+
+## Team Composition
+<div align="center">
+
+| **[팀장] 이상민** | **곽준영** | **김가원** | **김주혜** | **김하영** | **신지연** |
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/tkdalsss" height=150 width=150> <br/> @tkdalsss](https://github.com/tkdalsss) | [<img src="https://avatars.githubusercontent.com/Kwak-JunYoung" height=150 width=150> <br/> @Kwak-JunYoung](https://github.com/Kwak-JunYoung) | [<img src="https://avatars.githubusercontent.com/kgw0124" height=150 width=150> <br/> @kgw0124](https://github.com/kgw0124) | [<img src="https://avatars.githubusercontent.com/juhyemi" height=150 width=150> <br/> @journey-ji](https://github.com/juhyemi) | [<img src="https://avatars.githubusercontent.com/yhkkkkxx" height=150 width=150> <br/> @yhkkkkxx](https://github.com/yhkkkkxx) | [<img src="https://avatars.githubusercontent.com/jiyeoon00" height=150 width=150> <br/> @jiyeoon00](https://github.com/jiyeoon00) |
+
+</div>
+
+## Project Structure
 <img width="949" alt="image" src="https://github.com/Meteor-hanaro/.github/assets/22533668/07dd6557-2d89-4589-a8c6-7a091e508c71">
 
-# Commit Message Convention
+## Project Rules
+### 1. Commit Message Convention
 ### :tiger: 커밋 메시지 구조
 ```
 type: subject
