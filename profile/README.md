@@ -1,3 +1,5 @@
+![image](https://github.com/Meteor-hanaro/.github/assets/22533668/5d2c4452-b51d-441c-937d-439616bed355)
+
 ## Project Introduction
 > Meteor의 Gold rounge에서는 PB와 VIP가 소통하는 프리이빗한 디지털 라운지를 제공합니다
 > 
