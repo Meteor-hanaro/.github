@@ -1,3 +1,6 @@
+# Project Structure
+<img width="949" alt="image" src="https://github.com/Meteor-hanaro/.github/assets/22533668/07dd6557-2d89-4589-a8c6-7a091e508c71">
+
 # Commit Message Convention
 ### :tiger: 커밋 메시지 구조
 ```
