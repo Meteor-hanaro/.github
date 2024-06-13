@@ -10,7 +10,7 @@
 
 | **[팀장] 이상민** | **곽준영** | **김가원** | **김주혜** | **김하영** | **신지연** |
 | :------: | :------: | :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/tkdalsss" height=150 width=150> <br/> @tkdalsss](https://github.com/tkdalsss) | [<img src="https://avatars.githubusercontent.com/Kwak-JunYoung" height=150 width=150> <br/> @Kwak-JunYoung](https://github.com/Kwak-JunYoung) | [<img src="https://avatars.githubusercontent.com/kgw0124" height=150 width=150> <br/> @kgw0124](https://github.com/kgw0124) | [<img src="https://avatars.githubusercontent.com/juhyemi" height=150 width=150> <br/> @journey-ji](https://github.com/juhyemi) | [<img src="https://avatars.githubusercontent.com/yhkkkkxx" height=150 width=150> <br/> @yhkkkkxx](https://github.com/yhkkkkxx) | [<img src="https://avatars.githubusercontent.com/jiyeoon00" height=150 width=150> <br/> @jiyeoon00](https://github.com/jiyeoon00) |
+| [<img src="https://avatars.githubusercontent.com/tkdalsss" height=150 width=150> <br/> @tkdalsss](https://github.com/tkdalsss) | [<img src="https://avatars.githubusercontent.com/Kwak-JunYoung" height=150 width=150> <br/> @Kwak-JunYoung](https://github.com/Kwak-JunYoung) | [<img src="https://avatars.githubusercontent.com/kgw0124" height=150 width=150> <br/> @kgw0124](https://github.com/kgw0124) | [<img src="https://avatars.githubusercontent.com/juhyemi" height=150 width=150> <br/> @juhyemi](https://github.com/juhyemi) | [<img src="https://avatars.githubusercontent.com/yhkkkkxx" height=150 width=150> <br/> @yhkkkkxx](https://github.com/yhkkkkxx) | [<img src="https://avatars.githubusercontent.com/jiyeoon00" height=150 width=150> <br/> @jiyeoon00](https://github.com/jiyeoon00) |
 
 </div>
 
